@@ -1,2 +1,2 @@
 # Praktikum Git
-nama = afdal ginaya
+nama = afdal  
